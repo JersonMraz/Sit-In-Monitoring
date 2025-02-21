@@ -1,0 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html, body {
+    background-color: #d9d9d9;
+}
